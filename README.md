@@ -11,11 +11,6 @@ A modern Flutter blog application built on Clean Architecture. The project imple
 For help getting started with Flutter, view our online [documentation](https://flutter.dev/).                                                  
 BlogClub is a modern, feature-rich content application that manages the complete user lifecycle, starting with a visual Onboarding sequence and a dedicated Authentication module (Login/Signup). All primary content, including news articles and dynamic stories, is accessed via a custom Bottom Navigation Bar leading to a highly organized Main Feed. The application emphasizes a smooth, responsive user experience optimized for content discovery across mobile devices.
 
-### Screenshots
-
-![image](https://i.imgur.com/NNBxDXs.png)
-![image](https://i.imgur.com/Eq9zmSC.png)
-
 ---
 
 ## ✨ Key Features

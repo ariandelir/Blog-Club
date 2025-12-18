@@ -13,6 +13,12 @@ BlogClub is a modern, feature-rich content application that manages the complete
 
 ---
 
+### Screenshots
+
+![image](https://i.imgur.com/jJKvFeE.jpeg)
+
+---
+
 ## ✨ Key Features
 - Clean Architecture & Modular Design principles for maintainability.
 - Tabbed Auth Flow: Seamless transition between Login and Signup forms on a single screen.

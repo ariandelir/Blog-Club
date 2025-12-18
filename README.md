@@ -15,7 +15,7 @@ BlogClub is a modern, feature-rich content application that manages the complete
 
 ### Screenshots
 
-![image](https://i.imgur.com/jJKvFeE.jpeg)
+![image](https://i.imgur.com/4n3BcQ9.jpeg)
 
 ---
 
